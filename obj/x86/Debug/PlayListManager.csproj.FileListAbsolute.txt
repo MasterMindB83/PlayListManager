@@ -1,0 +1,9 @@
+C:\Users\MasterMind\Documents\Visual Studio 2010\Projects\PlayListManager\PlayListManager\bin\Debug\PlayList Manager.exe
+C:\Users\MasterMind\Documents\Visual Studio 2010\Projects\PlayListManager\PlayListManager\bin\Debug\PlayList Manager.pdb
+C:\Users\MasterMind\Documents\Visual Studio 2010\Projects\PlayListManager\PlayListManager\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\MasterMind\Documents\Visual Studio 2010\Projects\PlayListManager\PlayListManager\obj\x86\Debug\PlayListManager.Form1.resources
+C:\Users\MasterMind\Documents\Visual Studio 2010\Projects\PlayListManager\PlayListManager\obj\x86\Debug\PlayListManager.Properties.Resources.resources
+C:\Users\MasterMind\Documents\Visual Studio 2010\Projects\PlayListManager\PlayListManager\obj\x86\Debug\ResGen.read.1.tlog
+C:\Users\MasterMind\Documents\Visual Studio 2010\Projects\PlayListManager\PlayListManager\obj\x86\Debug\ResGen.write.1.tlog
+C:\Users\MasterMind\Documents\Visual Studio 2010\Projects\PlayListManager\PlayListManager\obj\x86\Debug\PlayList Manager.exe
+C:\Users\MasterMind\Documents\Visual Studio 2010\Projects\PlayListManager\PlayListManager\obj\x86\Debug\PlayList Manager.pdb
